@@ -1,7 +1,8 @@
-# Eyrc
-PB_2022-2023
-
-Theme description
+<div align = center>
+<h1>EYRC</h1>
+</div>
+<h2>PB_2022-2023</h2>
+<h3>Theme description</h3>
 
 Tackling challenges in mobility is of the utmost importance for a city to become “Smart”. Many industries began using home delivery through the years as a way to enhance their services. 
 However, this technique necessitates the use of labour as well as a vehicle, which increases fuel consumption. What if we sent robots to your door to bring medicines?
@@ -13,8 +14,7 @@ arena.
 
 
 Acknowledgement:
-Niranjan Gunaseelan
+<li>Sanjay Sundrapandiyan</li>
+<li>Thanmugil D K</li>
+<li>Niranjan Gunaseelan </li>
 
-Sanjay Sundrapandiyan
-
-Thanmugil D K
