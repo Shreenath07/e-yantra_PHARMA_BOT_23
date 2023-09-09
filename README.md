@@ -13,13 +13,13 @@ arena.
 
 <h2>Task Descriptions</h2>
 <ul>
-<li><h3>Task1a</h3>Node detection</li>
-<li><h3>Task1b</h3>QR Detection and Aruco detection</li>
-<li><h3>Task2a</h3>Wall follower</li>
-<li><h3>Task2b</h3>Line follower</li>
-<li><h3>Task3a</h3>Path planning Dijikstra algorithm</li>
-<li><h3>Task3d</h3>Socket communication</li>
-<li><h3>Task4</h3>Complete implementation</li>
+<li>Task1a - Node detection</li>
+<li>Task1b - QR Detection and Aruco detection</li>
+<li>Task2a - Wall follower</li>
+<li>Task2b - Line follower</li>
+<li>Task3a - Path planning Dijikstra algorithm</li>
+<li>Task3d - Socket communication</li>
+<li>Task4 - Complete implementation</li>
 </ul>
 <h2>Acknowledgement:</h2>
 <li>Shreenath Kulandaivelu</li>
