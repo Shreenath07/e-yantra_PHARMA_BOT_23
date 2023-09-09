@@ -19,7 +19,7 @@
 
       A sample image can be found below for reference:
  <div align="center">
-  <img src="Task 1/Images/Image1.png" alt="Image 1" style="width: 500px; height: 500px;">
+  <img src="./Images/Image1.png" alt="Image 1" style="width: 500px; height: 500px;">
 </div>
 
  <div align="center">
