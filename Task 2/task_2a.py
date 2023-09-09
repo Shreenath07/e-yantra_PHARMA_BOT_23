@@ -8,9 +8,8 @@
 *  This script is intended for implementation of Task 2A   
 *  of Pharma Bot (PB) Theme (eYRC 2022-23).
 *
-*  Filename:			task_2a.py
+*  Filename:				task_2a.py
 *  Created:				8/10/2022
-*  Author:				e-Yantra Team
 * 
 *****************************************************************************************
 '''
