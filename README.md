@@ -11,9 +11,15 @@ arena.
 
 ![image](https://user-images.githubusercontent.com/104312598/217016936-608371c0-a2d6-46cd-b69e-b1515a352219.png)
 
-
-
-Acknowledgement:
+<h2>Task Descriptions</h2>
+<li><h3>Task1a</h3>Node detection</li>
+<li><h3>Task1b</h3>QR Detection and Aruco detection</li>
+<li><h3>Task2a</h3>Wall follower</li>
+<li><h3>Task2b</h3>Line follower</li>
+<li><h3>Task3a</h3>Path planning Dijikstra algorithm</li>
+<li><h3>Task3d</h3>Socket communication</li>
+<li><h3>Task4</h3>Complete implementation</li>
+<h2>Acknowledgement:</h2>
 <li>Shreenath Kulandaivelu</li>
 <li>Sanjay Sundarapandiyan</li>
 <li>Thanmugil D K</li>
