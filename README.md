@@ -14,8 +14,8 @@ arena.
 
 
 Acknowledgement:
-<li>Shreenath Kulandhaivelu</li>
-<li>Sanjay Sundrapandiyan</li>
+<li>Shreenath Kulandaivelu</li>
+<li>Sanjay Sundarapandiyan</li>
 <li>Thanmugil D K</li>
 <li>Niranjan Gunaseelan </li>
 
