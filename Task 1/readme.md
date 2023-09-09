@@ -19,7 +19,7 @@
 
       A sample image can be found below for reference:
  <div align="center">
-  <img src="https://github.com/Shreenath07/e-yantra_PHARMA_BOT_23/assets/104967760/592b25a9-a241-4359-ba51-bcc7b84dfad5" alt="Image 1" style="width: 500px; height: 500px;">
+  <img src="Task 1/Images/Image1.png" alt="Image 1" style="width: 500px; height: 500px;">
 </div>
 
  <div align="center">
@@ -28,7 +28,7 @@
 
 <h3>Image Description </h3> 
 <div align="center">
-  <img src="https://github.com/Shreenath07/e-yantra_PHARMA_BOT_23/assets/104967760/9292dd49-81d9-40b1-8380-51a1edda4d2b" alt="Image 1" style="width: 500px; height: 500px;">
+  <img src="Task 1/Images/Image2.png" alt="Image 1" style="width: 500px; height: 500px;">
   <h4>Figure 2: Sample Image</h4>
 </div>
 
@@ -83,7 +83,7 @@ Example - In Figure 2,
 All the detected arena parameters should be returned as a dictionary
 Example - The output for Figure 2 will be,
 <div align="center">
-  <img src="https://github.com/Shreenath07/e-yantra_PHARMA_BOT_23/assets/104967760/114a54cd-762f-4e9a-ad9f-38c878a4d2e4" alt="Image 3" style="width: 1000px; height: 100px;">
+  <img src="Task 1/Images/Image3.png" alt="Image 3" style="width: 1000px; height: 100px;">
   <h4>Figure 3: Sample Output Image</h4>
 </div>
 
