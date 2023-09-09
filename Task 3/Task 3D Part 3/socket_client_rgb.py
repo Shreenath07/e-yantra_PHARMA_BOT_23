@@ -6,12 +6,7 @@
 *        		===============================================
 *
 *  This script is to implement Task 3D of Pharma Bot (PB) Theme (eYRC 2022-23).
-*  
-*  This software is made available on an "AS IS WHERE IS BASIS".
-*  Licensee/end user indemnifies and will keep e-Yantra indemnified from
-*  any and all claim(s) that emanate from the use of the Software or 
-*  breach of the terms of this agreement.
-*
+
 *****************************************************************************************
 '''
 
