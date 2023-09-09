@@ -28,7 +28,7 @@
 
 <h3>Image Description </h3> 
 <div align="center">
-  <img src="[Task 1/Images/Image2.png](https://github.com/Shreenath07/e-yantra_PHARMA_BOT_23/blob/8f1eebc2df15e12aa77c437938492e3c2df93dd6/Task%201/Images/Image2.png)" alt="Image 1" style="width: 500px; height: 500px;">
+  <img src="./Images/Imgae1.png" alt="Image 1" style="width: 500px; height: 500px;">
   <h4>Figure 2: Sample Image</h4>
 </div>
 
