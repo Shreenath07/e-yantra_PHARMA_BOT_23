@@ -28,7 +28,7 @@
 
 <h3>Image Description </h3> 
 <div align="center">
-  <img src="./Images/Imgae2.png" alt="Image 2" style="width: 500px; height: 500px;">
+  <img src="./Images/Image2.png" alt="Image 2" style="width: 500px; height: 500px;">
   <h4>Figure 2: Sample Image</h4>
 </div>
 
@@ -83,7 +83,7 @@ Example - In Figure 2,
 All the detected arena parameters should be returned as a dictionary
 Example - The output for Figure 2 will be,
 <div align="center">
-  <img src="./Images/Image3.png" alt="Image 3" style="width: 1000px; height: 100px;">
+  <img src="./Images/image3.png" alt="Image 3" style="width: 1000px; height: 100px;">
   <h4>Figure 3: Sample Output Image</h4>
 </div>
 
